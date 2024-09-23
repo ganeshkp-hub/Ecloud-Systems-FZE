@@ -12,7 +12,7 @@ Update User: Modify existing user information.
 Delete User: Remove a user from the database.
 Technologies Used
 Backend: Django (with Django Rest Framework)
-Database: SQLite (or any database supported by Django)
+Database: MySQL
 API Client: Python requests library for testing API endpoints
 API Endpoints
 1. Create User
@@ -77,7 +77,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/user-management-crud.git
+git clone https://github.com/ganeshkp-hub/Ecloud-Systems-FZE.git
 cd user-management-crud
 Install the required packages:
 
